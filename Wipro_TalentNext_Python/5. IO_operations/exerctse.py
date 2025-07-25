@@ -1,7 +1,8 @@
 # ============================================================================
 # FILE OPERATIONS PROGRAM
 # ============================================================================
-
+# Path to the text file - you can modify this to the path of your .txt file
+file_path = 'sample.txt'
 # Question 1: Read the entire content from a txt file and display it
 print("=" * 60)
 print("QUESTION 1: Read entire content of a text file")
