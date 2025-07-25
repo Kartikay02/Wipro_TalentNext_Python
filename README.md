@@ -1,9 +1,9 @@
-#Name: KUMAR KARTIKAY
+# Name: KUMAR KARTIKAY
 
-#Enrollment: 0176AL221074
+# Enrollment: 0176AL221074
 
-#College: LNCTE
+# College: LNCTE
 
-#Branch: CSE-AIML
+# Branch: CSE-AIML
 
-#Semester: 7th
+# Semester: 7th
